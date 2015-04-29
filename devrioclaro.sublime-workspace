@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cod",
+				"cod_produto"
+			],
+			[
+				"woocommerce_boleto_",
+				"woocommerce_boleto_return_page"
+			],
+			[
+				"woo",
+				"woocommerce_boleto"
+			],
+			[
+				"add_menu",
+				"add_menu_boleto_return"
+			],
+			[
+				"db_",
+				"db_offline_admin_notice"
+			],
+			[
+				"int_peido",
+				"int_pedidos_itens"
+			],
+			[
+				"shi",
+				"shipping_"
+			],
+			[
+				"f",
+				"for	for (…) {…}"
+			],
+			[
+				"matc",
+				"match2"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"defaul",
+				"default_address"
+			],
+			[
+				"sdo",
+				"sdo_saldo_disponivel"
+			],
+			[
+				"vari",
+				"variation"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"line",
+				"line_items"
+			],
+			[
+				"cod_",
+				"cod_cliente"
+			],
+			[
+				"meth",
+				"method_id"
+			],
+			[
+				"emp_e",
+				"emp_e_mail"
+			],
+			[
+				"emp_",
+				"emp_telefone2"
+			],
+			[
+				"emp",
+				"emp_cidade"
+			],
+			[
+				"adr",
+				"address_1"
+			],
+			[
+				"post",
+				"postcode"
+			],
+			[
+				"int_produ",
+				"int_produtos_cores"
+			],
+			[
+				"http",
+				"http_args"
+			],
+			[
+				"modifi",
+				"modificarWebhooks"
+			],
+			[
+				"int_pro",
+				"int_produtos"
+			],
+			[
+				"taman",
+				"tamanhos"
+			],
+			[
+				"int_",
+				"int_produtos_saldo"
+			],
+			[
+				"int_prod",
+				"int_produtos_grupo"
+			],
+			[
+				"campo_",
+				"campo_genero"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"preco",
+				"preco_prom"
+			],
+			[
+				"campo",
+				"campo_preco"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"tamanh",
+				"tamanhosOpt"
+			],
+			[
+				"dsc",
+				"dsc_produto"
+			],
+			[
+				"parame",
+				"parametros"
+			],
+			[
+				"produ",
+				"produtos"
+			],
+			[
+				"adicionar",
+				"adicionarTaxonomias"
+			],
+			[
+				"prod",
+				"produto"
+			],
+			[
+				"utf_",
+				"utf8_encode〔function〕"
+			],
+			[
+				"searc",
+				"search_box"
+			],
+			[
+				"utf",
+				"utf8_decode〔function〕"
+			],
+			[
+				"pro",
+				"produto"
+			],
+			[
+				"prd_",
+				"prd_imagem"
+			],
+			[
+				"base",
+				"base64_encode〔function〕"
+			],
+			[
+				"col_p",
+				"col_produto_img"
+			],
+			[
+				"tpp",
+				"tpp_valor"
+			],
+			[
+				"mysql_esc",
+				"mysql_real_escape_string〔function〕"
+			],
+			[
+				"int",
+				"integracaoProdutos〔class〕"
+			],
+			[
+				"integra",
+				"integracaoProdutos"
+			],
+			[
+				"wp_",
+				"wp_die"
+			],
+			[
+				"in",
+				"integracaoOpcoes〔function〕"
+			],
+			[
+				"order",
+				"orderby"
+			],
+			[
+				"stri",
+				"stripslashes〔function〕"
+			],
+			[
+				"utf8",
+				"utf8_decode〔function〕"
+			],
+			[
+				"integracao-sansa",
+				"integracao-sansage-submit"
+			],
+			[
+				"col_pr",
+				"col_produto_id"
+			],
+			[
+				"List",
+				"ListaProdutosTable"
+			],
+			[
+				"colu",
+				"column_name"
+			],
+			[
+				"col_pro",
+				"col_produto_nome"
+			],
+			[
+				"C",
+				"Consultor"
+			],
+			[
+				"integracsans",
+				"integracao_sansage_settings"
+			],
+			[
+				"integracao-sans",
+				"integracao-sansage-menu"
+			],
+			[
+				"wp_nonce",
+				"wp_nonce_field"
+			],
+			[
+				"gi",
+				"gifpanel"
+			],
+			[
+				"disp",
+				"display:none"
+			],
+			[
+				"velo",
+				"velocityrange"
+			],
+			[
+				"video",
+				"videopanel"
+			],
+			[
+				"visi",
+				"visibility: 〔property〕"
+			],
+			[
+				"draw",
+				"drawImage"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"bg",
+				"bgLoad"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"reque",
+				"requestAnimationFrame"
+			],
+			[
+				"stat",
+				"status_url_aviso"
+			],
+			[
+				"tran",
+				"transacao_id"
+			],
+			[
+				"pos",
+				"postdata"
+			],
+			[
+				"get",
+				"get_"
+			],
+			[
+				"rece",
+				"received_values"
+			],
+			[
+				"frete",
+				"frete_gratis_regional_init"
+			],
+			[
+				"sansa",
+				"sansage_featured"
+			],
+			[
+				"kad-header-",
+				"kad-header-left"
+			],
+			[
+				"kad-hea",
+				"kad-header-widget"
+			],
+			[
+				"sans",
+				"sansage_headerFix"
+			],
+			[
+				"kad-heade",
+				"kad-header-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"WP_INT",
+				"WP_INTEGRACAO_SANSAGE_PLUGIN_DIR_PATH"
+			],
+			[
+				"__",
+				"__bd_test"
+			],
+			[
+				"_",
+				"_db_passwd"
+			],
+			[
+				"_db_",
+				"_db_user"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"sinc",
+				"sincronizarRecurso"
+			],
+			[
+				"__api",
+				"__api_requests"
+			],
+			[
+				"requis",
+				"requisicaoWoo"
+			],
+			[
+				"query",
+				"query_vars"
+			],
+			[
+				"grau",
+				"grau180"
+			],
+			[
+				"gru",
+				"grau60"
+			],
+			[
+				"mem",
+				"mem_t"
+			],
+			[
+				"led",
+				"led_s"
+			],
+			[
+				"le",
+				"led_t"
+			],
+			[
+				"Organi",
+				"Organisation"
+			],
+			[
+				"post_",
+				"post_things  (variable)"
+			],
+			[
+				"accoun",
+				"accountUri"
+			],
+			[
+				"the_autor",
+				"the_author_meta"
+			],
+			[
+				"mim",
+				"mimetype"
+			],
+			[
+				"que",
+				"queriedObject"
+			],
+			[
+				"acc",
+				"acceptHeader"
+			],
+			[
+				"rdf",
+				"rdfxml"
+			],
+			[
+				"new",
+				"newsrdf"
+			],
+			[
+				"top",
+				"topbar-widget"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"foot",
+				"footercol1"
+			],
+			[
+				"displ",
+				"display_sidebar"
+			],
+			[
+				"shige",
+				"shiguen_produtos_img"
+			],
+			[
+				"shig",
+				"shiguen_produtos_img"
+			],
+			[
+				"footerc",
+				"footercol1"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"news",
+				"newsletter"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"menu_",
+				"menu_marketplacer"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sear",
+				"searchform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Processing/Processing 2.sublime-build",
+	"command_palette":
+	{
+		"height": 186.0,
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"gitc",
+				"Git: Commit history"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"fo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"inss",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mak",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"build",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"BU",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"B",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"b",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"bui",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"bu",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"fu",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"buid",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"PAC",
+				"Package Control: List Packages"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git chek",
+				"Git: Checkout Current File"
+			],
+			[
+				"tag",
+				"Git: New Tag"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ful",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"full",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"ini",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"proc",
+				"Set Syntax: Processing"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"lis",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 157.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Trabalho/persona/devrioclaro/devrioclaro.github.io/README.md",
+		"/C/Users/Victor/AppData/Local/Temp/scp57694/www/wp-admin/update.php",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_Premium_Gallery_Manager.zip/Premium_Gallery_Manager/init.php",
+		"/C/Users/Victor/Desktop/sansage/specs/query-cliente.json",
+		"/C/users/victor/desktop/sansage/integracoes/integracao-produtos.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp12113/www/.htaccess",
+		"/C/Users/Victor/AppData/Local/Temp/scp26438/www/wp-content/plugins/woocommerce/includes/class-wc-webhook.php",
+		"/C/users/victor/desktop/sansage/specs/database-ecosis.md",
+		"/C/users/victor/desktop/sansage/integracoes/integracao-clientes.php",
+		"/C/users/victor/desktop/sansage/lib/lista-produtos-table.php",
+		"/C/users/victor/desktop/sansage/integracoes/integracao-pedidos.php",
+		"/C/users/victor/desktop/sansage/integracao-sansage.php",
+		"/C/users/victor/desktop/sansage/resources/css/admin.css",
+		"/C/Users/Victor/AppData/Local/Temp/scp16253/www/wp-config.php",
+		"/C/users/victor/desktop/sansage/db/integracao-sansage-tdg.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp34734/www/wp-content/plugins/woocommerce-multiple-addresses/class-woocommerce-multiple-addresses.php",
+		"/C/Users/Victor/Desktop/custom-list-table-example.1.3/custom-list-table-example/list-table-example.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp13419/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-front-end.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp40125/www/wp-content/plugins/woocommerce-multiple-addresses/woocommerce-multiple-addresses.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp28173/www/wp-content/plugins/woocommerce-multiple-addresses/assets/js/public.js",
+		"/C/Users/Victor/Desktop/CN10035B.RET",
+		"/C/Users/Victor/AppData/Local/Temp/scp50292/www/wp-admin/includes/class-wp-list-table.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp37735/acquafure.com.br/public_html/mailer.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp47080/acquafure.com.br/public_html/js/script.js",
+		"/C/Users/Victor/AppData/Local/Temp/scp47495/acquafure.com.br/public_html/header.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp46481/acquafure.com.br/public_html/contato.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp25311/www/wp-content/plugins/woocommerce-multiple-addresses/assets/css/public.css",
+		"/C/Users/Victor/AppData/Local/Temp/scp15066/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-formatting.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp15942/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-api.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp16463/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-plugins-support.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp13802/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/woocommerce-extra-checkout-fields-for-brazil.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp15439/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/admin/class-wc-ecfb-settings.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp15184/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/admin/class-wc-ecfb-order.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp15995/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/admin/class-wc-ecfb-customer.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp15601/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/admin/class-wc-ecfb-admin.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp40590/www/wp-content/plugins/woocommerce-multiple-addresses/assets/index.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp40924/www/wp-content/plugins/woocommerce-multiple-addresses/index.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp19806/www/wp-content/plugins/woocommerce/includes/api/class-wc-api-products.php",
+		"/C/users/victor/desktop/sansage/specs/variable-product.json",
+		"/C/Users/Victor/AppData/Local/Temp/scp42796/www/wp-content/plugins/woocommerce/includes/api/class-wc-api-products.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp20087/www/wp-content/plugins/integracao-sansage/integracao-sansage.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp44432/www/cf/wp-config.php",
+		"/C/Users/Victor/Desktop/p5/empty-example/index.html",
+		"/C/Users/Victor/Downloads/Adobe Photoshop CS6 13.0 Final (English Japanese)  Mac Os X [ChingLiu]/How to install.txt",
+		"/C/Users/Victor/AppData/Local/Temp/scp54618/www/wp-content/plugins/woocommerce/includes/api/class-wc-api-authentication.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp31212/www/wp-content/plugins/woocommerce/includes/class-wc-post-types.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp31922/www/wp-content/plugins/woocommerce/includes/wc-product-functions.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp33277/www/wp-content/plugins/woocommerce/includes/class-wc-product-factory.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp31133/www/wp-content/plugins/woocommerce/includes/admin/class-wc-admin.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp32139/www/wp-content/plugins/woocommerce/includes/admin/wc-admin-functions.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp30426/www/wp-content/plugins/woocommerce/includes/walkers/class-product-cat-list-walker.php",
+		"/C/users/victor/desktop/sansage/specs/downloadable-product.json",
+		"/C/Users/Victor/AppData/Local/Temp/scp53152/www/wp-content/debug.log",
+		"/C/Users/Victor/Desktop/woocommerce-products-designer.1.0/woocommerce-products-designer/ressources/css/wpc-back.css",
+		"/C/Users/Victor/Desktop/woocommerce-products-designer.1.0/woocommerce-products-designer/wpc.php",
+		"/C/Users/Victor/Desktop/woocommerce-products-designer.1.0/woocommerce-products-designer/inc/functions.plugin.php",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Victor/AppData/Local/Temp/scp24940/www/wp-content/debug.log",
+		"/C/Users/Victor/AppData/Local/Temp/scp15029/www/wp-content/plugins/integracao-sansage/lib/lista-produtos-table.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp14359/www/wp-content/plugins/integracao-sansage/integracao-sansage.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp21363/www/wp-config.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp46455/www/wp-content/plugins/integracao-sansage/integracao-sansage.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp39914/www/a.htaccess",
+		"/C/Users/Victor/AppData/Local/Temp/scp39977/www/index.php",
+		"/C/Trabalho/freela/ralj/reuniao.md",
+		"/C/Users/Victor/AppData/Local/Temp/scp39711/httpdocs/index.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp48256/httpdocs/ralj/wp-content/themes/ralj/style.css",
+		"/C/Users/Victor/AppData/Local/Temp/scp45299/httpdocs/ralj/wp-config.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp18475/www/monte/style.css",
+		"/C/Users/Victor/AppData/Local/Temp/scp05104/httpdocs/ralj/wp-content/themes/ralj/header.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp05272/httpdocs/ralj/wp-content/themes/ralj/footer.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp21480/www/monte/script.js",
+		"/C/Users/Victor/AppData/Local/Temp/scp20954/www/monte/index.html",
+		"/C/Users/Victor/AppData/Local/Temp/scp56761/httpdocs/ralj/wp-content/index.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp44274/logs/W3SVC75/web20150302050253488.log",
+		"/C/Users/Victor/AppData/Local/Temp/scp19449/www/monte-a-foto/index.html",
+		"/C/Users/Victor/AppData/Local/Temp/scp13604/public_html/monte-a-foto/index.html",
+		"/C/Users/Victor/Desktop/monte-a-foto/processing.min.js",
+		"/C/users/victor/desktop/sansage/specs.md",
+		"/C/Trabalho/freela/marketplace/woocommerce-bcash/includes/class-wc-bcash-gateway.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp07851/public_html/wp-content/plugins/woocommerce-bcash/includes/class-wc-bcash-gateway.php",
+		"/C/Users/Victor/Documents/GitHub/woocommerce-bcash/includes/class-wc-bcash-gateway.php",
+		"/C/Pessoal/yo/p.md",
+		"/C/Users/Victor/Desktop/texto.txt",
+		"/C/Users/Victor/Desktop/download",
+		"/C/Users/Victor/Desktop/noname.eml",
+		"/C/Users/Victor/AppData/Local/Temp/scp43024/public_html/wp-content/themes/virtue_premium-child/functions.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp50574/public_html/wp-content/themes/virtue_premium-child/style.css",
+		"/C/Users/Victor/AppData/Local/Temp/scp07797/public_html/wp-content/plugins/woocommerce-bcash/wc-bcash.php",
+		"/C/Trabalho/freela/marketplace/pendencias.md",
+		"/C/Users/Victor/AppData/Local/Temp/scp16454/public_html/wp-content/plugins/woocommerce-frete-gratis-regiao/woocommerce-frete-gratis-regiao.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp06790/public_html/wc-logs/bcash-7f439c1f661fd2b6903ce3f31f66dad7.log",
+		"/C/Users/Victor/AppData/Local/Temp/scp02788/public_html/wp-content/themes/virtue_premium-child/assets/js/shorter-titles.js",
+		"/C/Users/Victor/AppData/Local/Temp/scp53156/public_html/wp-content/themes/virtue_premium-child/woocommerce/content-product.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp44803/public_html/wp-content/themes/virtue_premium/woocommerce/content-product.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp28932/www/masculino/wp-config.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp55774/public_html/wp-content/plugins/woocommerce-bcash/languages/woocommerce-bcash-pt_BR.po",
+		"/C/Users/Victor/AppData/Local/Temp/scp01575/public_html/wp-content/themes/virtue_premium-child/assets/js/short-titles",
+		"/C/Users/Victor/AppData/Local/Temp/scp52006/public_html/wp-content/themes/virtue_premium/woocommerce/content-single-product.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp52113/public_html/wp-content/themes/virtue_premium/woocommerce/content-product_cat.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp38289/public_html/wp-content/themes/virtue_premium-child/functions.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp17762/public_html/wp-content/themes/virtue_premium-child/style.css",
+		"/C/Users/Victor/AppData/Local/Temp/scp50779/public_html/wp-content/plugins/woocommerce/includes/class-wc-shipping-rate.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp50740/public_html/wp-content/plugins/woocommerce/includes/shipping/local-pickup/class-wc-shipping-local-pickup.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp50365/public_html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp33085/public_html/wp-content/plugins/woocommerce-frete-gratis-regiao/woocommerce-frete-gratis-regiao",
+		"/C/Users/Victor/AppData/Local/Temp/scp36175/public_html/wp-config.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp23857/php.ini",
+		"/C/Users/Victor/AppData/Local/Temp/scp38538/public_html/wp-content/themes/virtue_premium-child/product-searchform.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp11089/www/wp-content/themes/virtue_premium-child/style.css",
+		"/C/xampp/htdocs/sansage/wp-content/plugins/integracao-sansage/integracoes/integracao-pedidos.php",
+		"/C/xampp/htdocs/sansage/wp-content/plugins/integracao-sansage/integracoes/integracao-clientes.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp23160/www/wp-content/themes/virtue_premium-child/functions.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp22802/public_html/wp-content/themes/virtue_premium-child/functions.php",
+		"/C/xampp/htdocs/sansage/wp-content/plugins/integracao-sansage/db/integracao-sansage-tdg.php",
+		"/C/xampp/htdocs/sansage/wp-content/plugins/integracao-sansage/integracao-sansage.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp55411/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-front-end.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp46446/www/wp-content/themes/virtue_premium-child/templates/header.php",
+		"/C/Trabalho/wp_premium/woocommerce-cart-tab.0.3.1/woocommerce-cart-tab/cart-tab.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp59935/www/wp-content/themes/virtue_premium-child/function.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp04979/www/wp-content/plugins/woocommerce-installments/README.md",
+		"/C/Users/Victor/AppData/Local/Temp/scp50909/www/wp-content/themes/index.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp57110/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/admin/class-wc-ecfb-customer.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp54255/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-api.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp54097/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/woocommerce-extra-checkout-fields-for-brazil.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp01846/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/admin/class-wc-ecfb-order.php",
+		"/C/Users/Victor/AppData/Local/Temp/scp55876/www/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/includes/class-wc-ecfb-formatting.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pos",
+			"img",
+			"add_submenu_boleto_return",
+			"integracao-sansage-menu",
+			"add_dd_to_checkout_fields",
+			"bottom",
+			"$this",
+			"$shipping_address",
+			"shipping_address",
+			"fields",
+			"wcbcf_billing_fields",
+			"query",
+			"manage_",
+			"managing_",
+			"save_product_meta",
+			"array_unique",
+			"save_var",
+			"upload_path",
+			"attributes",
+			"Tamanho",
+			"tamanho",
+			"Tamanho",
+			"variation",
+			"tamanho",
+			"tamanhos",
+			" as $key",
+			"cor",
+			"attr",
+			"tamanhos",
+			"getProduto",
+			"cliente",
+			"order",
+			"true",
+			"gridData",
+			"id_familia",
+			"int_produtos_saldo",
+			"cor",
+			"core",
+			"cor",
+			"int_produtos_saldo",
+			"cod_produto",
+			"int_produtos_linha",
+			"id_linha",
+			"int_produtos_colecao",
+			"id_colecao",
+			"marcas",
+			"id_marca",
+			"genero",
+			"id_genero",
+			"int_produtos_familia",
+			"id_familia",
+			"prodId",
+			"int_produtos",
+			"id_grupo",
+			"int_produtos_grupo",
+			"value",
+			"grupo",
+			"produto",
+			"familia",
+			"Familia",
+			"genero",
+			"Genero",
+			"genero",
+			"Genero",
+			"parametros",
+			"Marca",
+			"marcas",
+			"Marc",
+			"marcas",
+			"Ge",
+			"Marca",
+			"Marcas",
+			"item",
+			"requisicaoWoo",
+			"error_log",
+			"search_box",
+			"utf8_decode",
+			"int_produtos_saldo",
+			"$tdg",
+			"tdg",
+			"countProdutos",
+			"getProdutos",
+			"css",
+			"bulk",
+			"offset",
+			"rec",
+			"column_default",
+			"stripslashes",
+			"_wp_column_headers",
+			"screen",
+			"get_column_info",
+			"current",
+			"integracaoMenu",
+			"name",
+			") ",
+			"draw(",
+			"draw",
+			"f",
+			"files",
+			"int_produtos_preco",
+			"16:16",
+			"PagSeguro",
+			"pagseguro",
+			"received_values",
+			"stripslashes_deep",
+			"successful_request",
+			"valid_bcash_ipn_request",
+			"woocommerce",
+			"Order",
+			")",
+			"(",
+			"end",
+			"then",
+			"if",
+			"bit_shift",
+			"temas",
+			"eventos",
+			"temas",
+			"terms",
+			"tema",
+			"local",
+			"evento",
+			"custom_term_meta",
+			"([^ .]*).*?([^ .]*)$",
+			"([^ .]*).*([^ .]*)$",
+			"$([^ .]*)$",
+			"mail",
+			"yeah"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1, $2",
+			"$1\\n$2",
+			"$1, $2",
+			"$0, $1",
+			"$1, $2",
+			"-",
+			"$1,",
+			"/home/vlcs/www",
+			"$1\\t",
+			"Vou",
+			"\\$acu_$1 \\|\\| ",
+			"\\$acu_$1 \\|\\|",
+			"\\$acu_$1 = ",
+			"\\$$1 \\n",
+			"\\$acu_$1 =",
+			"$1, ",
+			"acu\\.$1 AS acu_$1, acu\\.q$1 AS acu_q$1",
+			"acu\\.$1 AS acu_$1, ",
+			"acu\\.$1 AS acu_$1,  ",
+			"acu.$1 AS acu_$1,  ",
+			"$1.*, ",
+			"\\n",
+			"$2, $1",
+			"",
+			",\\n",
+			"$1",
+			"b",
+			"a",
+			"",
+			"',\\n'",
+			"'),",
+			"array(\\n",
+			"',\\n'",
+			"'",
+			"",
+			"'municipal'",
+			"'estadual'",
+			"'particular'",
+			"'federal'",
+			"'profissional'",
+			"'doutorado'",
+			"'mestrado'",
+			"",
+			"\"",
+			"forma_pagamento_camiseta",
+			"vlcs",
+			"vlVLcs",
+			"vlcs",
+			"<tr><td style=\"font-weight:600\">$1</td><td>",
+			"</td></tr>",
+			":</td><td>",
+			"$participante",
+			"'$1' => '',\\n",
+			"'$1' => ''\\n",
+			"option value=\"$1\"",
+			"\"$1\">$1 (<?=$vagas['$1']?>)<",
+			"\"$1\">$1 (<?=$vagas['$1']?>)",
+			"\"$1\">$1 (<?php=$vagas['$1']?>)",
+			"3aee68",
+			"3aee59",
+			"66a7db",
+			"66b1db",
+			"$r",
+			", 15)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ispi",
+				"kisscms/kiss/kiss-pieces.php"
+			],
+			[
+				"req",
+				"neotec_files/neotec/lib/Request.php"
+			],
+			[
+				"ritx",
+				"kisscms/kiss-pieces/richtext/richtext.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Trabalho/placebo/the-grid/the-grid.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
